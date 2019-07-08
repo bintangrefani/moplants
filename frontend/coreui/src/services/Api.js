@@ -4,15 +4,15 @@ const deviceUrl = function(){
 }
 const userUrl = function(){
      // return 'http://159.65.6.122:3000/api/user/'
-    return 'http://localhost:3000/api/user/'
+    return 'http://128.199.217.134:3000/api/user/'
 }
 const tanamanUrl = function(){
      // return 'http://159.65.6.122:3001/api/sapi/'
-    return 'http://localhost:3000/api/tanaman/'
+    return 'http://128.199.217.134:3000/api/tanaman/'
 }
 const weatherUrl = function(){
     // return 'http://159.65.6.122:3001/api/sapi/'
-   return 'http://localhost:3000/api/cuaca/'
+   return 'http://128.199.217.134:3000/api/cuaca/'
 }
 const intelligentUrl = function(){
     //return 'http://159.65.6.122:4000/api/intelligent/'
