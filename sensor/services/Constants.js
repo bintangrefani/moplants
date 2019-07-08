@@ -1,0 +1,13 @@
+module.exports = {
+    DEVICE_ACTIVE:1,
+    DEVICE_NONACTIVE:0,
+    DEVICE_PENDING:2,
+    NORMAL_CONDITION:1,
+    ABNORMAL_CONDITION:0,
+    SOIL_MOISTURE_LOWER_LIMIT:60,
+    SOIL_MOISTURE_UPPER_LIMIT:80,
+    TEMPERATURE_LOWER_LIMIT:18,
+    TEMPERATURE_UPPER_LIMIT:30,
+  }
+
+  //Informasi http://jurnal.unissula.ac.id/index.php/EI/article/view/3628
